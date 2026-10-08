@@ -49,7 +49,7 @@ function App() {
 
             <p>
               A modern React frontend for demonstrating automated builds,
-              testing, and continuous deployment.
+              testing, and continuous deployment. form maruti 
             </p>
 
             <div className="hero-buttons">
